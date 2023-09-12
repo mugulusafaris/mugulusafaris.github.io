@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./index-002be592.js";const n={},c={class:"destinations"},a=o("h1",null,"Destinations View Page",-1),i=[a];function _(r,d){return s(),t("div",c,i)}const f=e(n,[["render",_]]);export{f as default};
